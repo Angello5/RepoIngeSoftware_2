@@ -1,0 +1,168 @@
+Registro de habitación reservada #1
+1
+Wed Nov 23 14:55:10 PET 2022
+25/11/2022
+26/11/2022
+24/11/2022
+102
+Familiar
+600.0
+Tatiana
+Silva Torres
+83164151
+999823492
+1200.0
+Registro de habitación reservada #2
+2
+Wed Nov 23 15:01:51 PET 2022
+25/11/2022
+26/11/2022
+24/11/2022
+100
+Individual
+300.0
+Cesar
+Carrasco Manrique
+45151515
+987347543
+600.0
+Registro de habitación reservada #3
+3
+Thu Nov 24 10:54:42 PET 2022
+26/11/2022
+29/11/2022
+24/11/2022
+108
+Familiar
+600.0
+Santiago
+Mendoza
+8373722
+93737383
+2400.0
+Registro de habitación reservada #4
+4
+Wed Nov 23 15:01:51 PET 2022
+25/11/2022
+26/11/2022
+24/11/2022
+100
+Individual
+300.0
+Cesar
+Carrasco Manrique
+45151515
+987347543
+600.0
+Registro de habitación reservada #5
+5
+Thu Nov 24 19:38:59 PET 2022
+26/11/2022
+28/11/2022
+24/11/2022
+111
+Doble
+500.0
+Rivaldo
+Vera Gonzalez
+71408016
+967543871
+1500.0
+Registro de habitación reservada #6
+6
+Thu Nov 24 19:38:59 PET 2022
+26/11/2022
+30/11/2022
+24/11/2022
+109
+Individual
+300.0
+Rivaldo
+Vera Gonzalez
+71408016
+967543871
+1500.0
+Registro de habitación reservada #7
+7
+Fri Nov 25 10:35:16 PET 2022
+26/11/2022
+29/11/2022
+25/11/2022
+100
+Individual
+300.0
+Xiomara
+De la Cruz
+48272821
+998373214
+1200.0
+Registro de habitación reservada #8
+8
+Fri Nov 25 10:44:09 PET 2022
+26/11/2022
+28/11/2022
+25/11/2022
+103
+Individual
+300.0
+Cesar
+Carrasco Manrique
+45151515
+987347543
+900.0
+Registro de habitación reservada #9
+9
+Fri Nov 25 16:18:19 PET 2022
+26/11/2022
+30/11/2022
+25/11/2022
+101
+Matrimonial
+450.0
+Cesar
+Andrade Sajami
+10357974
+971324338
+2250.0
+Registro de habitación reservada #10
+10
+Fri Nov 25 16:24:12 PET 2022
+28/11/2022
+30/11/2022
+25/11/2022
+106
+Matrimonial
+450.0
+Cesar
+Andrade Sajami
+10357974
+971324338
+1350.0
+Registro de habitación reservada #11
+11
+Fri Nov 25 15:33:47 PET 2022
+26/11/2022
+29/11/2022
+25/11/2022
+107
+Doble
+500.0
+Xiomara
+De la Cruz
+48272821
+998373214
+2000.0
+Registro de habitación reservada #12
+12
+Fri Nov 25 16:24:12 PET 2022
+28/11/2022
+30/11/2022
+25/11/2022
+106
+Matrimonial
+450.0
+Cesar
+Andrade Sajami
+10357974
+971324338
+1350.0

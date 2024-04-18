@@ -1,0 +1,78 @@
+Cliente 1
+1
+Rivaldo
+Vera Gonzalez
+71408016
+967543871
+Cliente 2
+2
+Tatiana
+Silva Torres
+83164151
+999823492
+Cliente 3
+3
+Leonardo
+Ramos Villanueva
+83161414
+987765325
+Cliente 4
+4
+Cesar
+Carrasco Manrique
+45151515
+987347543
+Cliente 5
+5
+Adriana
+Campos Espinoza
+82736135
+903456394
+Cliente 6
+6
+Alejandro
+Andrade Noa
+7381641
+989314145
+Cliente 7
+7
+Daniel
+Velasquez Garcia
+482758
+938743292
+Cliente 8
+8
+Xiomara
+De la Cruz
+48272821
+998373214
+Cliente 9
+9
+Santiago
+Mendoza
+8373722
+93737383
+Cliente 10
+10
+Marcelo
+Americo
+7328231
+93938383
+Cliente 11
+11
+Gabriel
+Flores
+83942923
+99930303
+Cliente 12
+12
+Joaquin
+Cortez
+78383311
+99339393
+Cliente 13
+13
+Cesar
+Andrade Sajami
+10357974
+971324338

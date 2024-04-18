@@ -1,0 +1,9 @@
+Tipo de habitacion:
+Individual
+300
+Matrimonial
+450
+Doble
+500
+Familiar
+600

@@ -1,0 +1,39 @@
+Habitaciones Ocupadas #1
+1
+Fri Nov 25 10:35:16 PET 2022
+26/11/2022
+29/11/2022
+100
+Individual
+300.0
+1200.0
+Xiomara
+De la Cruz
+48272821
+998373214
+Habitaciones Ocupadas #2
+2
+Fri Nov 25 10:44:09 PET 2022
+26/11/2022
+28/11/2022
+103
+Individual
+300.0
+900.0
+Cesar
+Carrasco Manrique
+45151515
+987347543
+Habitaciones Ocupadas #3
+3
+Fri Nov 25 10:51:18 PET 2022
+29/11/2022
+30/11/2022
+112
+Familiar
+600.0
+1200.0
+Joaquin
+Cortez
+78383311
+99339393
